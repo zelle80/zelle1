@@ -1,0 +1,14 @@
+Sulla@LAPTOP-V1CGLS9B MINGW64 ~
+$ cd zelle/
+
+Sulla@LAPTOP-V1CGLS9B MINGW64 ~/zelle (master)
+$ ls -l
+total 2
+-rw-r--r-- 1 Sulla 197609 139 Feb 20 11:04 app.java
+-rw-r--r-- 1 Sulla 197609   0 Feb 18 20:03 four.txt
+-rw-r--r-- 1 Sulla 197609  11 Feb 18 20:04 one.txt
+-rw-r--r-- 1 Sulla 197609   0 Feb 18 20:03 three.txt
+
+Sulla@LAPTOP-V1CGLS9B MINGW64 ~/zelle (master)
+$
+
